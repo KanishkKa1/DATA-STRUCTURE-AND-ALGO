@@ -1,11 +1,12 @@
 # DATA-STRUCTURE-AND-ALGO
 <p>
 ## Topics 
+<br/>
 -Array
 <br />
 -Linked List
 <br />
 -Sorting algorithms
-<br />
 </p>
+<br />
 Some practice questions are solved by me.
