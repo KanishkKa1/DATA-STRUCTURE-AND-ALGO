@@ -1,6 +1,6 @@
 # DATA-STRUCTURE-AND-ALGO
-<br />
-## Topics 
+
+### Topics 
 <p>
 <br/>
 -Array
