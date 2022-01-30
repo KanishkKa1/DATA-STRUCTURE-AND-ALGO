@@ -1,5 +1,8 @@
 # DATA-STRUCTURE-AND-ALGO
 
+## Language - 
+C++
+
 ### Topics 
 <p>
 <br/>
