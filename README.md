@@ -1,11 +1,10 @@
-# DATA-STRUCTURE-AND-ALGO
+# DATA-STRUCTURE-AND-ALGORITHMS
 
 ## Language - 
 C++
 
-### Topics 
+## Topics -
 <p>
-<br/>
 -Array
 <br />
 -Linked List
